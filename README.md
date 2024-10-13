@@ -1,7 +1,7 @@
 
 # Card Component with Button
 
-This repository contains a custom card component created using **HTML**, **CSS**, and a touch of **JavaScript**. The card includes an interactive button and is designed to be responsive and visually appealing. It's a perfect reusable component for any modern web project.
+This repository contains a custom card component created using **HTML**, **CSS**, and a touch of **JavaScript**. The card includes an interactive button and is designed to be responsive and visually appealing. It's a perfect reusable component for any modern web Project.
 
 ## Features:
 - **Stylish Design**: A clean and modern look.
