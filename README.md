@@ -9,5 +9,5 @@ This repository contains a custom card component created using **HTML**, **CSS**
 - **Interactive Button**: A smooth hover effect for a better user experience.
 - **Customizable**: Easy to modify and adapt to different projects.
 
-Feel free to explore the code and customize it as per your requirements!
+Feel free to explore the Code and customize it as per your requirements!
 
